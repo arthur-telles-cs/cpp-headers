@@ -1,6 +1,6 @@
 # Simple C++ code for testing headers. 
 
-*INFORMATION*
+*INFORMATION.*
 Compiler: MingGW
 C++ VERSION: 201703 (17)
 
